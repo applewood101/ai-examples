@@ -1,2 +1,2 @@
-# ai-examples
-Include example links of AI repos
+# AI Examples
+Include example links to AI repositories.
